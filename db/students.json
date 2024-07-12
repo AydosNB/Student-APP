@@ -1,0 +1,108 @@
+{
+  "groups": [
+    {
+      "groupName": "Group E",
+      "id": "1"
+    },
+    {
+      "groupName": "Group B",
+      "id": "2"
+    },
+    {
+      "groupName": "Group D",
+      "id": "4fd9"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "+99895536232",
+      "email": "example@gmial.com",
+      "gender": "male",
+      "avatar": "https://picsum.photos/200",
+      "groupId": 1
+    },
+    {
+      "id": "2",
+      "firstName": "Albert",
+      "lastName": "Doe",
+      "phoneNumber": "+99895536232",
+      "email": "example@gmial.com",
+      "gender": "male",
+      "avatar": "https://picsum.photos/200",
+      "groupId": 2
+    },
+    {
+      "id": "3",
+      "firstName": "Daniel",
+      "lastName": "Doe",
+      "phoneNumber": "+99895536232",
+      "email": "example@gmial.com",
+      "gender": "male",
+      "avatar": "https://picsum.photos/200",
+      "groupId": 2
+    },
+    {
+      "id": "4",
+      "firstName": "Mark",
+      "lastName": "Doe",
+      "phoneNumber": "+99895536232",
+      "email": "example@gmial.com",
+      "gender": "male",
+      "avatar": "https://picsum.photos/200",
+      "groupId": 3
+    },
+    {
+      "id": "d712",
+      "firstName": "Test",
+      "lastName": "test",
+      "phoneNumber": "342342",
+      "email": "dfsdf",
+      "gender": "male",
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fman%2F&psig=AOvVaw0LepeCdcdlV_uCJkxUCA16&ust=1720533910368000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCAybbOl4cDFQAAAAAdAAAAABAE",
+      "groupId": "2"
+    },
+    {
+      "id": "6d08",
+      "firstName": "dcs",
+      "lastName": "csdcs",
+      "phoneNumber": "sdcsdc",
+      "email": "cdscs",
+      "gender": "male",
+      "avatar": "dsdc",
+      "groupId": "2"
+    },
+    {
+      "id": "f851",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phoneNumber": "423423423",
+      "email": "sddfsdfdsf",
+      "gender": "male",
+      "avatar": "https://img.freepik.com/free-photo/handsome-bearded-guy-posing-against-white-wall_273609-20597.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1720742400&semt=sph",
+      "groupId": "2"
+    },
+    {
+      "id": "028e",
+      "firstName": "Albert",
+      "lastName": "King",
+      "phoneNumber": "123456432",
+      "email": "example@gmail.com",
+      "gender": "male",
+      "avatar": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "groupId": "2"
+    },
+    {
+      "id": "4c45",
+      "firstName": "dfsdf",
+      "lastName": "dsfsdf",
+      "phoneNumber": "13123213",
+      "email": "dsfs2dsdf@gmail.com",
+      "gender": "female",
+      "avatar": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "groupId": null
+    }
+  ]
+}
